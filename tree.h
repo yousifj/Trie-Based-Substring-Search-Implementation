@@ -1,7 +1,5 @@
 /*
  * Author: Yousif Jabbo
- * Class: CS635
- * Professor: Abbas Mazloumi
  */
 
 #include <string>
